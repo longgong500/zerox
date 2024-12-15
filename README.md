@@ -1,6 +1,7 @@
 ![Hero Image](./examples/heroImage.png)
 
 ## Zerox OCR
+[![PyPI version](https://badge.fury.io/py/py-zerox.svg)](https://badge.fury.io/py/py-zerox)
 
 <a href="https://discord.gg/smg2QfwtJ6">
   <img src="https://github.com/user-attachments/assets/cccc0e9a-e3b2-425e-9b54-e5024681b129" alt="Join us on Discord" width="200px">
